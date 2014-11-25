@@ -1,0 +1,73 @@
+/* 
+    Document   : estils
+    Created on : 18-nov-2014, 0:35:01
+    Author     : devweb
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+   #cabecera {
+     position: absolute;
+     top:0; left: 0;
+	    height:22%;
+     width:100%;
+     background-color:RoyalBlue;
+    }
+    
+    #logocap{
+     position: absolute;
+     top:7%; left: 3%;  
+    }
+    
+    #titulocap{
+     position: absolute;
+       top:20%; left: 34%; 
+    }
+	
+   #menu {
+     position: absolute;
+     top:22%; left: 0;
+	    height: 168%;
+     width:20%;
+     background-color:SandyBrown;
+    }
+    
+    #menucontenido{
+    position:absolute;
+    top:2%; left:4%;
+
+    }
+    
+   #contenido {
+     position: absolute;
+     top:22%; right: 0;
+	 height: 168%;
+	    bottom: 0;
+     width: 80%;
+     background-color:LightGreen;
+    }
+    
+    #contenidotexto{
+    position:absolute;
+    top:2%; left:4%;
+    width: 95%;
+    height: 100%;
+    
+    }
+	
+    #pie {
+     position: absolute;
+     top:190%; left: 0;
+	    height:20%;
+     width:100%;
+     background-color:Violet;
+    }
+    
+
+
+
+
+
+
+
